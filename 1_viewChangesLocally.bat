@@ -1,11 +1,8 @@
-
-if exist derived rmdir derived /s /q
-
-pushd casseroleWebsite
+pushd docs
 
 start http://localhost:1313
 
-..\hugo\hugo.exe server --ignoreCache --destination ..\derived -w --disableFastRender
+..\jekyll.exe serve --port 1313 --watch
 
 popd
 pause
