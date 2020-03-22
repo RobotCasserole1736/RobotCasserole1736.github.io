@@ -1,0 +1,43 @@
+baseURL = "robotcasserole.org"
+languageCode = "en-us"
+title = "Robot Casserole"
+themesDir = "themes"
+theme = "hugo-hero-theme"
+
+[params]
+  google_analytics_id=""
+
+  [params.homepage_meta_tags]
+    meta_description = "Robot Casserole is a community-based FIRST Robotics Competition team serving the Peoria, IL area."
+    meta_og_title = "Robot Casserole"
+    meta_og_type = "website"
+    meta_og_url = "https://robotcasserole.org"
+    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
+    meta_og_description = "Robot Casserole is a community-based FIRST Robotics Competition team serving the Peoria, IL area."
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@FRC1736"
+    meta_twitter_creator = "@FRC1736"
+
+[[menu.main]]
+	name = "Services"
+	url = "/services/"
+    weight = 1
+
+[[menu.main]]
+    name = "Work"
+    url = "/work/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"
