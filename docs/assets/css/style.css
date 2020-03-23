@@ -152,7 +152,7 @@ body {
 }
 
 a {
-    color: rgb(253, 191, 191);
+    color: #C40000;
     text-decoration: none;
     -o-transition: all .3s;
     -moz-transition: all .3s;
