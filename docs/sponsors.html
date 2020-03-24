@@ -1,12 +1,11 @@
 ---
 layout: default_style
 permalink: /sponsors
+bannerImage: assets/img/general/theLift.jpg
 ---
 <!-- Main Container -->
 
-<div class="row container-kamn">
-  <img src="assets/img/general/theLift.jpg" class="blog-post" alt="Feature-img" align="right" width="100%"> 
-</div>
+
 
 
 <div id="banners"></div>
@@ -27,11 +26,21 @@ permalink: /sponsors
 
 <p> FIRST Robotics Competition Team 1736 gratefully acknowledges the following sponsors: </p>
 
-<h1> 2019-2020 Season Sponsors </h1>
 
-<p><a href="https://www.caterpillar.com"><img src="assets/img/sponsorLogos/caterpillar_logo.png" height=150px/></a></p>
-<p><a href="https://www.playingwithfusion.com"><img src="assets/img/sponsorLogos/pwf_logo.gif" height=100px/></a></p>
-
+<!-- This little magic ditty is what parses the sponsors.yaml file and creates our list of sponsors -->
+{% assign curYear = 'now' | date: "%Y" %}
+{% for year in (2006..curYear) reversed %}
+{% assign prevYear = year | plus:-1 %}
+<h1> {{ prevYear }}-{{ year }} Season Sponsors </h1>
+<ul>
+  {% for sponsor in site.data.sponsors %}
+    {% if sponsor.yearsActive contains year %}
+      <li><a href="{{sponsor.website}}"><img src="{{sponsor.logo}}" alt="{{sponsor.name}}" height="{{sponsor.logoHeight}}"/></a></li> <br>
+    {% endif %}
+  {% endfor %} 
+</ul>
+<hr>
+{% endfor %} 
 
 </div>
 <!--End Main Container -->

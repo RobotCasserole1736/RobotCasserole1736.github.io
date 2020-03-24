@@ -1,0 +1,82 @@
+- name: Caterpillar, Inc
+  logo: assets/img/sponsorLogos/caterpillar_logo.png
+  logoHeight: 150px
+  website: https://www.caterpillar.com
+  yearsActive: 
+    - 2020
+    - 2019
+    - 2018
+    - 2017
+    - 2016
+    - 2015
+    - 2014
+    - 2013
+    - 2012
+    - 2011
+    - 2010
+    - 2009
+    - 2008
+    - 2007
+    - 2006
+
+
+- name: Playing With Fusion
+  logo: assets/img/sponsorLogos/pwf_logo.gif
+  logoHeight: 150px
+  website: https://www.playingwithfusion.com
+  yearsActive: 
+    - 2020
+
+- name: Belcan Global Engineering
+  logo: assets/img/sponsorLogos/belcan_logo.png
+  logoHeight: 75
+  website: https://www.belcan.com/
+  yearsActive: 
+    - 2019
+
+- name: Better Banks
+  logo: assets/img/sponsorLogos/betterbanks_logo.png
+  logoHeight: 75
+  website: https://www.betterbanks.com/
+  yearsActive: 
+    - 2019
+
+- name: Childers Eatery
+  logo: assets/img/sponsorLogos/childers_logo.png
+  logoHeight: 75
+  website: https://www.childerseatery.com/
+  yearsActive: 
+    - 2019
+
+
+
+- name: TN Track Services Inc
+  logo: assets/img/sponsorLogos/tnTrackServices_logo.png
+  logoHeight: 75
+  website: http://www.tntrackservices.com/
+  yearsActive: 
+    - 2018
+
+- name: Peoria Police Benevolent Association
+  logo: assets/img/sponsorLogos/ppb_logo.png
+  logoHeight: 75
+  website: https://www.facebook.com/pages/Peoria-Police-Benevolent-Association/157347590971582
+  yearsActive: 
+    - 2018
+
+
+
+- name: Parametric Technology Corporation (PTC)
+  logo: assets/img/sponsorLogos/ptc_logo.png
+  logoHeight: 100
+  website: https://www.ptc.com/
+  yearsActive: 
+    - 2017
+    - 2016
+
+- name: Accurate Perforating
+  logo: assets/img/sponsorLogos/ap_logo.png
+  logoHeight: 75
+  website: https://www.ptc.com/
+  yearsActive: 
+    - 2017
