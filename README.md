@@ -46,14 +46,17 @@ Modify the `_data/homepage_slideshow.yaml` file.
 Each slide should have the following format:
 
 ```
-  - big_caption: Overlay text in big bold letters
-    small_caption: Overlay text in smaller letters
-    image: image to be displayed as the slide.
+  - big_caption: Professional Mentorship
+    small_caption: Mechanical, CAD, Software, Electrical, Business
+    image: assets/img/mainPageSlider/slide3.jpg
 ```
 
-Images must have a 311:100 aspect ratio to display properly, and be as high of resolution as possible. 
+Where
+  * `big_caption` is the big bold text in the top of the caption box
+  * `small_caption` is the not-as-big text at the bottom of the caption box
+  * `image` is the image that should be displayed.
 
-These special images should saved to the `assets/img/mainPageSlider` folder.
+Images must have a 311:100 aspect ratio to display properly, and be as high of resolution as possible. These special images should saved to the `assets/img/mainPageSlider` folder.
 
 ## Adding/Modifying Front Page Info & Links
 
@@ -65,6 +68,6 @@ Documents for download should go in `assets/documents` folder. Avoid spaces or s
 
 1) Git Clone this repo onto your PC
 2) Run the 1_viewChangesLocally.bat file. Web browser should launch with local copy of the website
-3) Make changes under `` folder, observing updates to local copy
+3) Make changes to files, observing updates to local copy
 4) Commit and push changes once validated. Pushing to master makes the website live.
 
