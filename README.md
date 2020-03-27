@@ -12,7 +12,7 @@ If you've never made changes before, follow these steps:
 
 ## Adding/Modifying Sponsors
 
-Modify the `_data/sponsors.yaml` file. 
+Modify the `_data/sponsors.yaml` file, [which can be done here](https://github.com/RobotCasserole1736/RobotCasserole1736.github.io/edit/master/_data/sponsors.yaml). 
 
 Sponsor data should have the following format:
 
@@ -35,13 +35,13 @@ Where
 
 ## Adding/Modifying Team History
 
-Create new `.md` file in `_history/` folder, or modify existing one. 
+Create new `.md` file [in `_history/` folder](https://github.com/RobotCasserole1736/RobotCasserole1736.github.io/tree/master/_history), or modify existing one. 
 
 Every file in that folder gets collected together on the History page.
 
 ## Adding/Modifying Front Page Slideshow
 
-Modify the `_data/homepage_slideshow.yaml` file. 
+Modify the `_data/homepage_slideshow.yaml` file, [which can be done here](https://github.com/RobotCasserole1736/RobotCasserole1736.github.io/edit/master/_data/homepage_slideshow.yaml).  
 
 Each slide should have the following format:
 
@@ -56,11 +56,11 @@ Where
   * `small_caption` is the not-as-big text at the bottom of the caption box
   * `image` is the image that should be displayed.
 
-Images must have a 311:100 aspect ratio to display properly, and be as high of resolution as possible. These special images should saved to the `assets/img/mainPageSlider` folder.
+Images must have a 311:100 aspect ratio to display properly, and be as high of resolution as possible. These special images should saved to the `assets/img/mainPageSlider` folder, [which can be found here](https://github.com/RobotCasserole1736/RobotCasserole1736.github.io/tree/master/assets/img/mainPageSlider).
 
 ## Adding/Modifying Front Page Info & Links
 
-Update `index.md` with new content. 
+Update `index.md` with new content, [which can be done here](https://github.com/RobotCasserole1736/RobotCasserole1736.github.io/edit/master/index.md).
 
 Documents for download should go in `assets/documents` folder. Avoid spaces or special characters in the names of files.
 
