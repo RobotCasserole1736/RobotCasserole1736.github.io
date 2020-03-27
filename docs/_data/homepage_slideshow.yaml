@@ -1,0 +1,28 @@
+###################################################################################
+## Home Page Slider Configuration. Add/modify homepage slide show contents here.
+###################################################################################
+slider_config:
+  # Slide 1
+  - big_caption: Robot Cassserole
+    small_caption: FRC Team 1736
+    image: assets/img/mainPageSlider/slide1.jpg
+
+  # Slide 2
+  - big_caption: Inspiring Students since 2006
+    small_caption: Award-winning Robots and Mentors
+    image: assets/img/mainPageSlider/slide2.jpg
+
+  # Slide 3
+  - big_caption: Professional Mentorship
+    small_caption: Mechanical, CAD, Software, Electrical, Business
+    image: assets/img/mainPageSlider/slide3.jpg
+
+  # Slide 4
+  - big_caption: Compete!
+    small_caption: Attend regional events local and on-the-road
+    image: assets/img/mainPageSlider/slide4.jpg
+
+  # Slide 5
+  - big_caption: Join the Legacy!
+    small_caption: Students, Mentors, and Sponsors welcome - No prior experience needed!
+    image: assets/img/mainPageSlider/slide5.jpg

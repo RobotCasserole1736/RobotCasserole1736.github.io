@@ -14,64 +14,34 @@
 
                     <!-- Indicators -->
                     <ol class="carousel-indicators visible-lg">
-                        <li data-target="#carousel-1" data-slide-to="0" class="active"></li>
-                        <li data-target="#carousel-1" data-slide-to="1"></li>
-                        <li data-target="#carousel-1" data-slide-to="2"></li>
-                        <li data-target="#carousel-1" data-slide-to="3"></li>
-                        <li data-target="#carousel-1" data-slide-to="4"></li>
+                        {% for slide in site.data.homepage_slideshow.slider_config %}
+                            {% if forloop.first %}
+                                 <!-- Well I guess jekyll thinks arrays start at 1. What a meme.-->
+                                <li data-target="#carousel-1" data-slide-to="{{forloop.index | plus:-1}}" class="active"></li>
+                            {% else %}
+                                <li data-target="#carousel-1" data-slide-to="{{forloop.index | plus:-1}}"></li>
+                            {% endif %}
+                        {% endfor %}
                     </ol>
-        
+
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner" role="listbox">
-                        <!-- Begin Slide 1 -->
-                        <div class="item active">
-                            <img src="../assets/img/mainPageSlider/slide1.jpg" height="{{site.bannerHeight}}" alt="Image of first carousel" class="carousel-img">
-                            <div class="carousel-caption">
-                                <h1 class="carousel-title hidden-xs"><b>Robot Casserole</b></h1>
-                                <p class="carousel-body">FIRST Robotics Team 1736</p>
+                        {% for slide in site.data.homepage_slideshow.slider_config %}
+                            <!-- Begin slide {{forloop.index}} -->
+                            {% if forloop.first %}
+                                <div class="item active">
+                            {% else %}
+                                <div class="item">
+                            {% endif %}
+                                <img src="{{slide.image}}" height="{{site.banner_height}}" alt="{{slide.big_caption}}" class="carousel-img">
+                                <div class="carousel-caption">
+                                    <h1 class="carousel-title hidden-xs"><b>{{slide.big_caption}}</b></h1>
+                                    <p class="carousel-body">{{slide.small_caption}}</p>
+                                </div>
                             </div>
-                        </div>
-                        <!-- End Slide 1 -->
+                            <!-- End slide {{forloop.index}} -->
 
-                        <!-- Begin Slide 2 -->
-                        <div class="item">
-                            <img src="../assets/img/mainPageSlider/slide2.jpg" height="{{site.bannerHeight}}" alt="Image of second carousel" class="carousel-img">
-                            <div class="carousel-caption">
-                                <h1 class="carousel-title hidden-xs">Inspiring Students since 2006</h1>
-                                <p class="carousel-body">Award-winning Robots and Mentors</p>
-                            </div>
-                        </div>
-                        <!-- End Slide 2 -->
-
-                        <!-- Begin Slide 3 -->
-                        <div class="item">
-                            <img src="../assets/img/mainPageSlider/slide3.jpg" height="{{site.bannerHeight}}" alt="Image of third carousel" class="carousel-img">
-                            <div class="carousel-caption">
-                                <h1 class="carousel-title hidden-xs">Professional Mentorship</h1>
-                                <p class="carousel-body">Mechanical, CAD, Software, Electrical, Business</p>
-                            </div>
-                        </div>
-                        <!-- End Slide 3 -->
-
-                        <!-- Begin Slide 4 -->
-                        <div class="item">
-                            <img src="../assets/img/mainPageSlider/slide4.jpg" height="{{site.bannerHeight}}" alt="Image of fourth carousel" class="carousel-img">
-                            <div class="carousel-caption">
-                                <h1 class="carousel-title hidden-xs">Compete!</h1>
-                                <p class="carousel-body">Attend regional events local and on-the-road.</p>
-                            </div>
-                        </div>
-                        <!-- End Slide 4 -->
-
-                        <!-- Begin Slide 5 -->
-                        <div class="item">
-                            <img src="../assets/img/mainPageSlider/slide5.jpg" height="{{site.bannerHeight}}" alt="Image of fifth carousel" class="carousel-img">
-                            <div class="carousel-caption">
-                                <h1 class="carousel-title hidden-xs">Join the Legacy!</h1>
-                                <p class="carousel-body">Students, Mentors, and Sponsors welcome... No prior experience needed!</p>
-                            </div>
-                        </div>
-                        <!-- End Slide 5 -->
+                        {% endfor %}
                     </div>
         
                     <!-- Controls -->
@@ -81,6 +51,7 @@
                     <a class="right carousel-control" href="#carousel-1" data-slide="next">
                         <span class="glyphicon glyphicon-chevron-right"></span>
                     </a>
+
                 </div>
             </div>
         </div>

@@ -28,16 +28,16 @@ bannerCaption: Sponsorship
   <!-- This little magic ditty is what parses the sponsors.yaml file and creates our list of sponsors -->
   {% assign curYear = 'now' | date: "%Y" %}
   {% for year in (2006..curYear) reversed %}
-  {% assign prevYear = year | plus:-1 %}
-  <h1> {{ prevYear }}-{{ year }} Season Sponsors </h1>
-  <ul>
-    {% for sponsor in site.data.sponsors %}
-      {% if sponsor.yearsActive contains year %}
-        <li><a href="{{sponsor.website}}"><img src="{{sponsor.logo}}" alt="{{sponsor.name}}" height="{{sponsor.logoHeight}}"/></a></li> <br>
-      {% endif %}
-    {% endfor %} 
-  </ul>
-  <hr>
+    {% assign prevYear = year | plus:-1 %}
+    <h1> {{ prevYear }}-{{ year }} Season Sponsors </h1>
+    <ul>
+      {% for sponsor in site.data.sponsors %}
+        {% if sponsor.yearsActive contains year %}
+          <li><a href="{{sponsor.website}}"><img src="{{sponsor.logo}}" alt="{{sponsor.name}}" height="{{sponsor.logoHeight}}"/></a></li> <br>
+        {% endif %}
+      {% endfor %} 
+    </ul>
+    <hr>
   {% endfor %} 
 
 </div>

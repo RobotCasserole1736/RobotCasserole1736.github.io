@@ -39,9 +39,27 @@ Create new `.md` file in `docs/_history/` folder, or modify existing one.
 
 Every file in that folder gets collected together on the History page.
 
+## Adding/Modifying Front Page Slideshow
+
+Modify the `docs/_data/homepage_slideshow.yaml` file. 
+
+Each slide should have the following format:
+
+```
+  - big_caption: Overlay text in big bold letters
+    small_caption: Overlay text in smaller letters
+    image: image to be displayed as the slide.
+```
+
+Images must have a 311:100 aspect ratio to display properly, and be as high of resolution as possible. 
+
+These special images should saved to the `docs/assets/img/mainPageSlider` folder.
+
 ## Adding/Modifying Front Page Info & Links
 
 Update `docs/index.md` with new content. 
+
+Documents for download should go in `docs/assets/documents` folder. Avoid spaces or special characters in the names of files.
 
 ## Advanced operations
 
