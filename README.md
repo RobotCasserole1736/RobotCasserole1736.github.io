@@ -12,7 +12,7 @@ If you've never made changes before, follow these steps:
 
 ## Adding/Modifying Sponsors
 
-Modify the `docs/_data/sponsors.yaml` file. 
+Modify the `_data/sponsors.yaml` file. 
 
 Sponsor data should have the following format:
 
@@ -35,13 +35,13 @@ Where
 
 ## Adding/Modifying Team History
 
-Create new `.md` file in `docs/_history/` folder, or modify existing one. 
+Create new `.md` file in `_history/` folder, or modify existing one. 
 
 Every file in that folder gets collected together on the History page.
 
 ## Adding/Modifying Front Page Slideshow
 
-Modify the `docs/_data/homepage_slideshow.yaml` file. 
+Modify the `_data/homepage_slideshow.yaml` file. 
 
 Each slide should have the following format:
 
@@ -53,18 +53,18 @@ Each slide should have the following format:
 
 Images must have a 311:100 aspect ratio to display properly, and be as high of resolution as possible. 
 
-These special images should saved to the `docs/assets/img/mainPageSlider` folder.
+These special images should saved to the `assets/img/mainPageSlider` folder.
 
 ## Adding/Modifying Front Page Info & Links
 
-Update `docs/index.md` with new content. 
+Update `index.md` with new content. 
 
-Documents for download should go in `docs/assets/documents` folder. Avoid spaces or special characters in the names of files.
+Documents for download should go in `assets/documents` folder. Avoid spaces or special characters in the names of files.
 
 ## Advanced operations
 
 1) Git Clone this repo onto your PC
 2) Run the 1_viewChangesLocally.bat file. Web browser should launch with local copy of the website
-3) Make changes under `docs/` folder, observing updates to local copy
+3) Make changes under `` folder, observing updates to local copy
 4) Commit and push changes once validated. Pushing to master makes the website live.
 
