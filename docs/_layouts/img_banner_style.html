@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+
+  {% include head.html %}
+  {% include header.html %}
+  {% include script.html %}
+
+  <body>
+
+    <div class="row container-kamn">
+      <div style="position: relative; width:100%; height:{{site.bannerHeight}} ">
+        <img src="{{ page.bannerImage }}" class="blog-post" alt="" align="right" width="100%" height="{{ site.bannerHeight }}" style="object-fit: cover; position: absolute;">
+        {% include bannerCaption.html %}
+      </div>
+    </div>
+    {{ content }}
+  </body>
+
+  {% include footer.html %}
+</html>

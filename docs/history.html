@@ -1,14 +1,14 @@
 ---
-layout: default_style
+layout: img_banner_style
 permalink: /history
 bannerImage: assets/img/general/historyRusty.png
+bannerCaption: Team History
 ---
 <!-- Main Container -->
 <div id="banners">
   <!-- TODO - put a picture here? -->
 </div>
 <div class="container">
-  <h1> Team History </h1>
   {% assign sorted = (site.history | sort: 'year') | reverse %}
   {% for histSeg in sorted %}
     <hr>

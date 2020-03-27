@@ -25,7 +25,7 @@
                     <div class="carousel-inner" role="listbox">
                         <!-- Begin Slide 1 -->
                         <div class="item active">
-                            <img src="../assets/img/mainPageSlider/slide1.jpg" height="400" alt="Image of first carousel">
+                            <img src="../assets/img/mainPageSlider/slide1.jpg" height="{{site.bannerHeight}}" alt="Image of first carousel" class="carousel-img">
                             <div class="carousel-caption">
                                 <h1 class="carousel-title hidden-xs"><b>Robot Casserole</b></h1>
                                 <p class="carousel-body">FIRST Robotics Team 1736</p>
@@ -35,9 +35,9 @@
 
                         <!-- Begin Slide 2 -->
                         <div class="item">
-                            <img src="../assets/img/mainPageSlider/slide2.jpg" height="400" alt="Image of second carousel">
+                            <img src="../assets/img/mainPageSlider/slide2.jpg" height="{{site.bannerHeight}}" alt="Image of second carousel" class="carousel-img">
                             <div class="carousel-caption">
-                                <h1 class="carousel-title hidden-xs">Creating Excellence Since 2006</h1>
+                                <h1 class="carousel-title hidden-xs">Inspiring Students since 2006</h1>
                                 <p class="carousel-body">Award-winning Robots and Mentors</p>
                             </div>
                         </div>
@@ -45,9 +45,9 @@
 
                         <!-- Begin Slide 3 -->
                         <div class="item">
-                            <img src="../assets/img/mainPageSlider/slide3.jpg" height="400" alt="Image of third carousel">
+                            <img src="../assets/img/mainPageSlider/slide3.jpg" height="{{site.bannerHeight}}" alt="Image of third carousel" class="carousel-img">
                             <div class="carousel-caption">
-                                <h1 class="carousel-title hidden-xs">Students and Mentors Working Together</h1>
+                                <h1 class="carousel-title hidden-xs">Professional Mentorship</h1>
                                 <p class="carousel-body">Mechanical, CAD, Software, Electrical, Business</p>
                             </div>
                         </div>
@@ -55,7 +55,7 @@
 
                         <!-- Begin Slide 4 -->
                         <div class="item">
-                            <img src="../assets/img/mainPageSlider/slide4.jpg" height="400" alt="Image of fourth carousel">
+                            <img src="../assets/img/mainPageSlider/slide4.jpg" height="{{site.bannerHeight}}" alt="Image of fourth carousel" class="carousel-img">
                             <div class="carousel-caption">
                                 <h1 class="carousel-title hidden-xs">Compete!</h1>
                                 <p class="carousel-body">Attend regional events local and on-the-road.</p>
@@ -65,9 +65,9 @@
 
                         <!-- Begin Slide 5 -->
                         <div class="item">
-                            <img src="../assets/img/mainPageSlider/slide5.jpg" height="400" alt="Image of fifth carousel">
+                            <img src="../assets/img/mainPageSlider/slide5.jpg" height="{{site.bannerHeight}}" alt="Image of fifth carousel" class="carousel-img">
                             <div class="carousel-caption">
-                                <h1 class="carousel-title hidden-xs">Join in the Legacy!</h1>
+                                <h1 class="carousel-title hidden-xs">Join the Legacy!</h1>
                                 <p class="carousel-body">Students, Mentors, and Sponsors welcome... No prior experience needed!</p>
                             </div>
                         </div>
@@ -91,12 +91,6 @@
     <!-- Begin #services-section -->
     <section id="services" class="services-section section-global-wrapper">
         <div class="container">
-            <div class="row">
-                <div class="services-header">
-                    <h1 class="services-header-title">Robot Casserole</h1>
-                    <p class="services-header-body"><em> FIRST Robotics Competition Team 1736 </em></p>
-                </div>
-            </div>
             {{ content }}
         </div>      
     </section>

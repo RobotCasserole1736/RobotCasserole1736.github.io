@@ -1,46 +1,44 @@
 ---
-layout: default_style
+layout: img_banner_style
 permalink: /sponsors
 bannerImage: assets/img/general/theLift.jpg
+bannerCaption: Sponsorship
 ---
 <!-- Main Container -->
 
-
-
-
-<div id="banners"></div>
 <div class="container">
 
-<h2> Sponsorship </h2>
-<p> No team can get off the ground without the generous support of sponsors! </p>
+  <br>
 
-<p> We are currently in search of about $3000 worth of sponsorship. This will help cover student travel fees for the World Championships in Detroit, as well as advanced tooling for summer student projects.</p>
+  <p> No team can get off the ground without the generous support of sponsors! </p>
 
-<p> We are also interested in in-kind sponsorships: Materials, parts, labor, and educational opportunities are always well appreciated.</p>
+  <p> We are currently in search of about $3000 worth of sponsorship. This will help cover student travel fees for the World Championships in Detroit, as well as advanced tooling for summer student projects.</p>
 
-<p> We seek to build relationships with companies who can impact our community: as you help us deliver STEM education to students, so too can we bring recognition and technical assistance to your company and brand.</p>
+  <p> We are also interested in in-kind sponsorships: Materials, parts, labor, and educational opportunities are always well appreciated.</p>
 
-<p> If you are interested in sponsoring, please reach out to us at frc1736@gmail.com.</p>
+  <p> We seek to build relationships with companies who can impact our community: as you help us deliver STEM education to students, so too can we bring recognition and technical assistance to your company and brand.</p>
 
-<hr>
+  <p> If you are interested in sponsoring, please reach out to us at frc1736@gmail.com.</p>
 
-<p> FIRST Robotics Competition Team 1736 gratefully acknowledges the following sponsors: </p>
+  <hr>
+
+  <p> FIRST Robotics Competition Team 1736 gratefully acknowledges the following sponsors: </p>
 
 
-<!-- This little magic ditty is what parses the sponsors.yaml file and creates our list of sponsors -->
-{% assign curYear = 'now' | date: "%Y" %}
-{% for year in (2006..curYear) reversed %}
-{% assign prevYear = year | plus:-1 %}
-<h1> {{ prevYear }}-{{ year }} Season Sponsors </h1>
-<ul>
-  {% for sponsor in site.data.sponsors %}
-    {% if sponsor.yearsActive contains year %}
-      <li><a href="{{sponsor.website}}"><img src="{{sponsor.logo}}" alt="{{sponsor.name}}" height="{{sponsor.logoHeight}}"/></a></li> <br>
-    {% endif %}
+  <!-- This little magic ditty is what parses the sponsors.yaml file and creates our list of sponsors -->
+  {% assign curYear = 'now' | date: "%Y" %}
+  {% for year in (2006..curYear) reversed %}
+  {% assign prevYear = year | plus:-1 %}
+  <h1> {{ prevYear }}-{{ year }} Season Sponsors </h1>
+  <ul>
+    {% for sponsor in site.data.sponsors %}
+      {% if sponsor.yearsActive contains year %}
+        <li><a href="{{sponsor.website}}"><img src="{{sponsor.logo}}" alt="{{sponsor.name}}" height="{{sponsor.logoHeight}}"/></a></li> <br>
+      {% endif %}
+    {% endfor %} 
+  </ul>
+  <hr>
   {% endfor %} 
-</ul>
-<hr>
-{% endfor %} 
 
 </div>
 <!--End Main Container -->

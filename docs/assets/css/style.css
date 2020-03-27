@@ -272,13 +272,6 @@ address {
 }
  }
 
-.banner-text{
-    font-family: 'Raleway', sans-serif;
-    color:white;
-    font-size: 50px;
-
-    }
-
 #banners{
     
     margin-top: 30px;
@@ -302,6 +295,21 @@ address {
 #banner{
     margin-top:0px;
 }
+
+.banner-caption {
+  position: absolute; 
+  bottom: 10%; 
+  left: 60%;
+  background-color: rgba(0,0,0,.70);
+  min-height: 15%;
+  line-height: 100%;
+  font-family: 'Raleway', sans-serif;
+  color:white;
+  padding: 15px;
+  font-size: 55px;
+  text-align: center;
+}
+
 
 
 .header h1 {
@@ -372,14 +380,17 @@ p.blog-text{
 
 .office-logo {
   width: 250px;
+  border: 4px solid #C40000;
 }
 
+/* Handle small screens */
 @media (max-width: 768px){ 
     .office-logo{
-      height: 100px;
-      width: 60px;
+      width: 120px;
+      border: 2px solid #C40000;
   }
 }
+
 
 /*
 * ==========================================================================
@@ -732,23 +743,36 @@ footer h3 {
 .carousel-caption .carousel-title {
   color: #ffffff;
 }
+
+
+/* Carousel captioning for big screens*/
 @media (min-width: 768px) and (max-width: 1199px) {
   .carousel-caption {
     font-size: 12px;
-    padding-bottom: 0px;
-    bottom: 2px;
   }
   .carousel-caption .carousel-title {
     font-size: 18px;
   }
+  .banner-caption{
+    font-size: 30px;
+  }
 }
+
+/* Carousel captioning for small screens*/
 @media (max-width: 767px) {
   .carousel-caption {
-    font-size: 11px;
-    padding-bottom: 0;
-    bottom: 0;
+    font-size: 10px;
   }
   .carousel-caption .carousel-title {
-    font-size: 14px;
+    font-size: 12px;
   }
+  .banner-caption{
+    font-size: 15px;
+  }
+}
+
+.carousel-img {
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto;
 }

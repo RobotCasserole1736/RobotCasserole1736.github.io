@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+
+  {% include head.html %}
+  {% include header.html %}
+  {% include script.html %}
+
+  <body>
+
+    <div class="row container-kamn">
+      <video autoplay muted loop id="myVideo" class="blog-post" alt="Video Banner" align="right" width="100%" height="{{ site.bannerHeight }}" style="object-fit: cover;">
+        <source src="{{ page.bannerVideo }}" type="video/mp4">
+      </video>
+    </div>
+
+    {{ content }}
+  </body>
+
+  <script>
+    //Ensure video always restarts on page load
+    document.getElementById("myVideo").currentTime = 0; 
+  </script>
+
+  {% include footer.html %}
+</html>
