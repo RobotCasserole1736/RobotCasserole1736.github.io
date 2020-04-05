@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+
+  {% include head.html %}
+  {% include header.html %}
+  {% include script.html %}
+
+  <style>
+      .with-margins{
+          margin-top:25px;
+          margin-bottom:25px;
+      }
+
+      .grid-image{
+        width:100%;
+        border: 3px solid #C40000;
+        height: auto;
+        display: block;
+      }
+
+      .grid-image-container {
+        position: relative;
+        width: 100%;
+      }
+
+
+      .grid-image-overlay {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background-color: rgba(0,0,0,0.5);
+        overflow: hidden;
+        width: 100%;
+        height: 35%;
+        transition: .15s ease;
+    }
+
+    .grid-image-container:hover .grid-image-overlay {
+        height: 100%;
+    }
+
+    .grid-image-overlay-text {
+        color: white;
+        font-size: 20px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        text-align: center;
+    }
+
+  </style>
+
+  <body>
+    <br><br><br>
+    <div class="container">
+        <!-- Photo Grid -->
+        <div class="row with-margins"> 
+
+            <div class="col-sm-4">
+                <div class="grid-image-container">
+                    <a href="https://www.firstinspires.org">
+                        <img src="http://placekitten.com/500/500?image=6" class="grid-image">
+                        <div class="grid-image-overlay">
+                            <div class="grid-image-overlay-text">
+                                <h1>About FIRST</h1>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                <div class="grid-image-container">
+                    <a href="/sponsors.html">
+                        <img src="http://placekitten.com/500/500?image=7" class="grid-image">
+                        <div class="grid-image-overlay">
+                            <div class="grid-image-overlay-text">
+                                <h1>Sponsors</h1>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                <div class="grid-image-container">
+                    <a href="/history.html">
+                        <img src="http://placekitten.com/500/500?image=8" class="grid-image">
+                        <div class="grid-image-overlay">
+                            <div class="grid-image-overlay-text">
+                                <h1>History</h1>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+        <div class="row with-margins"> 
+
+            <div class="col-sm-4">
+                <div class="grid-image-container">
+                    <a href="/about.html">
+                        <img src="http://placekitten.com/500/500?image=13" class="grid-image">
+                        <div class="grid-image-overlay">
+                            <div class="grid-image-overlay-text">
+                                <h1>About</h1>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                <div class="grid-image-container">
+                    <a href="http://www.staggeringbeauty.com/">
+                        <img src="http://placekitten.com/500/500?image=12" class="grid-image">
+                        <div class="grid-image-overlay">
+                            <div class="grid-image-overlay-text">
+                                <h1>Community Outreach</h1>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                <div class="grid-image-container">
+                    <a href="/home.html">
+                        <img src="http://placekitten.com/500/500?image=11" class="grid-image">
+                        <div class="grid-image-overlay">
+                            <div class="grid-image-overlay-text">
+                                <h1>For Students</h1>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+    <!-- Main text content -->
+
+    <!-- Begin #services-section -->
+    <section id="services" class="services-section section-global-wrapper">
+        <div class="container">
+            {{ content }}
+        </div>      
+    </section>
+    <!-- End #services-section -->
+
+
+  </body>
+
+  {% include footer.html %}
+</html>
