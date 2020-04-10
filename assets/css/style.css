@@ -543,7 +543,9 @@ footer h3 {
 
 #social-icons .btn-group {
     color: white;
-    margin-right: 15px;
+    margin-left: 6px;
+    margin-right: 6px;
+    margin-bottom: 15px;
 }
 #social-icons .btn-group:hover {
     color: #ffffff;
