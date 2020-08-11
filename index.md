@@ -4,7 +4,7 @@ layout: home_style
 
 # COVID 19 Updates
 
-Due to the evolving Coronavirus pandemic, we **do not plan to meet in person during the fall of 2020.**
+
 
 We are **currently** planning the following schedule from October - December:
 
@@ -18,7 +18,9 @@ _Thursday 7pm-8pm_: Optional discussion hour
 
 We will continue to evolve this plan as needed.
 
-All meetings will be conducted virtually. They will focus on skill building and background information in prep for the 2021 build season.
+All meetings will be conducted **virtually**. Due to the evolving Coronavirus pandemic, we **do not plan to meet in person during the fall of 2020.** 
+
+They will focus on skill building and background information in prep for the 2021 build season.
 
 We **tentatively** plan to resume hands-on, in-person meetings in January 2021.
 
