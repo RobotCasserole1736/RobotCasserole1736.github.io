@@ -3,7 +3,7 @@
 ###################################################################################
 slider_config:
   # Slide 1
-  - big_caption: Robot Cassserole
+  - big_caption: Robot Casserole
     small_caption: FRC Team 1736
     image: assets/img/mainPageSlider/slide1.jpg
 
@@ -23,6 +23,21 @@ slider_config:
     image: assets/img/mainPageSlider/slide4.jpg
 
   # Slide 5
-  - big_caption: Join the Legacy!
+  - big_caption: Join the Legacy
     small_caption: Students, Mentors, and Sponsors welcome - No prior experience needed!
     image: assets/img/mainPageSlider/slide5.jpg
+
+  # Slide 6
+  - big_caption: Join the Legacy!
+    small_caption: Students, Mentors, and Sponsors welcome - No prior experience needed!
+    image: assets/img/mainPageSlider/slide6.jpg
+
+  # Slide 7
+  - big_caption: Join the Legacy!
+    small_caption: Students, Mentors, and Sponsors welcome - No prior experience needed!
+    image: assets/img/mainPageSlider/slide7.jpg
+
+  # Slide 8
+  - big_caption: Join the Legacy!
+    small_caption: Students, Mentors, and Sponsors welcome - No prior experience needed!
+    image: assets/img/mainPageSlider/slide8.jpg
