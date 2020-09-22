@@ -36,6 +36,12 @@ Thank you for your patience and cooperation!
 
 # 2020-2021 Season Resources
 
-... More coming soon!
+[Liability Wavier - Students](assets/documents/First-Robotics-Liability-Waiver-Students.pdf)
+
+[Team Handbook and Acknowledgement Form](assets/documents/RC_handbook_2020-2021.pdf)
 
 [Team Google Calendar](https://calendar.google.com/calendar/embed?src=frc1736%40gmail.com&ctz=America%2FChicago)
+
+[Liability Waiver - Mentors](assets/documents/First-Robotics-Liability-Waiver-Mentors.pdf)
+
+
