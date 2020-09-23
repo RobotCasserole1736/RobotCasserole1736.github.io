@@ -21,7 +21,8 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 }
 .blog-title{
   color: rgb(177, 90, 90);
-  font-family: "Lato";
+ font-family: myriad-pro, Helvetica, Arial, sans-serif;
+
   font-variant: small-caps;
 }
 
@@ -110,7 +111,7 @@ h3.col-xs-12{
     text-align: center;
 }
 .block-author{
-    color: #D7002E;
+    color: #C40000;
 }
 
 .btn-info{
@@ -129,7 +130,8 @@ float: right;
 
 
 .title-text{
-  font-family: 'Raleway', sans-serif;  
+ font-family: myriad-pro, Helvetica, Arial, sans-serif;
+
   letter-spacing: .2px;
   font-size: 40px;
 }
@@ -146,9 +148,15 @@ float: right;
 }
 
 body {
-    font-size: 15px;
-    line-height: 24px;
+    font-size: 18px;
+    line-height: 26px;
     background:#F8FAFF;
+
+
+    font-family: myriad-pro, Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    
 }
 
 a {
@@ -252,7 +260,8 @@ address {
 */
 .navbar-brand {  
   z-index: 9999px;
-  font-family: 'Lato', Arial, Helvetica, sans-serif;
+ font-family: myriad-pro, Helvetica, Arial, sans-serif;
+
   font-size: 28px;
   font-weight: 700;
   letter-spacing: 2px;
@@ -303,7 +312,8 @@ address {
   background-color: rgba(0,0,0,.70);
   min-height: 15%;
   line-height: 100%;
-  font-family: 'Raleway', sans-serif;
+ font-family: myriad-pro, Helvetica, Arial, sans-serif;
+
   color:white;
   padding: 15px;
   font-size: 55px;
@@ -319,7 +329,8 @@ address {
 }
 .header a.brand {
 
-    font-family: 'PT Sans', sans-serif;
+   font-family: myriad-pro, Helvetica, Arial, sans-serif;
+
     font-size: 40px;
     margin-top:5px;
     display: inline-block;
@@ -342,7 +353,8 @@ address {
     text-align: justify;
     letter-spacing:1px;
     font-size: 16px;
-    font-family: 'Arial', sans-serif;
+   font-family: myriad-pro, Helvetica, Arial, sans-serif;
+
     line-height: 24px;
 }
 .left2{
@@ -369,7 +381,8 @@ address {
 p.blog-text{   
     font-size: 16px;
     letter-spacing: .1px;
-    font-family: 'Arial';
+   font-family: myriad-pro, Helvetica, Arial, sans-serif;
+
     text-align:justify;
     text-justify:inter-word;
     }
@@ -379,20 +392,26 @@ p.blog-text{
 }
 
 .office-logo {
-  width: 250px;
+  width: 500px;
   border: 4px solid #C40000;
 }
 
 /* Handle small screens */
+@media (max-width: 1199px){ 
+  .office-logo{
+    width: 320px;
+    border: 3px solid #C40000;
+  }
+}
 @media (max-width: 990px){ 
   .office-logo{
-    width: 120px;
+    width: 140px;
     border: 3px solid #C40000;
-}
+  }
 }
 @media (max-width: 768px){ 
     .office-logo{
-      width: 120px;
+      width: 300px;
       border: 2px solid #C40000;
   }
 }
@@ -505,7 +524,8 @@ p.blog-text{
 
 footer .widget h4 {
     margin-top: 20px;
-    font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
+   font-family: myriad-pro, Helvetica, Arial, sans-serif;
+
     font-size: 14px;
     text-transform: uppercase;
     text-shadow: 0 1px 0 rgba(255,255,255,.7);
@@ -668,7 +688,8 @@ footer h3 {
     padding: 0;
 }
 .lib-header{
-    font-family: 'lato' ;
+   font-family: myriad-pro, Helvetica, Arial, sans-serif;
+
     font-style: normal;
 }
 
