@@ -4,16 +4,9 @@ layout: home_style
 
 # WELCOME NEW STUDENTS!
 
-Incoming students are welcomed to our Virtual Open House on **Thursday, September 24th, 6PM to 8PM**
+Thank you for coming by our open house!
 
-# [Click here to join the Zoom meeting!](https://us02web.zoom.us/j/2574901201) 
-# The password to join is our team number (1736).
-
-Timing is flexible: call in whenever you can, learn about the team, and leave whenever you need to.
-
-All are welcome! Come see the work our students and mentors do, and how you can get involved!
-
-[Please share your contact info and interests with us here](https://forms.gle/wJrJxuQZF1pF3mnS9). However, no formal sign-up is required to attend the open house.
+[If you are interested in joining the team, please fill out this form.](https://forms.gle/aFEdJyeHLXjouEPX9) We will be reaching out to you shortly.
 
 <iframe width="860" height="480" src="https://www.youtube.com/embed/Rr36YomYFO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
