@@ -22,7 +22,7 @@ _Thursday 6-7pm_: Subteam & Committee meetings
 
 Full-team meetings will be conducted **virtually**. 
 
-We are currently working on plans to meet in small groups with approprate safety measures. Team Calendar and meeting information will be provided to students as the offseason progresses.
+We are currently working on plans to meet in small groups with approprate safety measures. Team Calendar will be updated, and meeting information will be provided to students as the offseason progresses.
 
 Thank you for your patience and cooperation!
 
