@@ -20,11 +20,9 @@ _Tuesday 6-7pm_: Full Team Meeting
 
 _Thursday 6-7pm_: Subteam & Committee meetings
 
-All meetings will be conducted **virtually**. 
+Full-team meetings will be conducted **virtually**. 
 
-We **do not plan to meet in person during the fall of 2020.**  We will focus on skill building and background information in prep for the 2021 build season.
-
-We **tentatively** plan to resume hands-on, in-person meetings in January 2021.
+We are currently working on plans to meet in small groups with approprate safety measures. Team Calendar and meeting information will be provided to students as the offseason progresses.
 
 Thank you for your patience and cooperation!
 
