@@ -4,7 +4,7 @@ layout: home_style
 
 # WELCOME NEW STUDENTS!
 
-Thank you for coming by our open house!
+Thank you for coming by our open house! If you missed it, you can see our recordings of it: [Part 1](https://www.youtube.com/watch?v=yFnMWqftO2M&feature=youtu.be), [Part 2](https://www.youtube.com/watch?v=2lldWpNr4to&feature=youtu.be), and [Part 3](https://www.youtube.com/watch?v=P3kbeSEc5go&feature=youtu.be).
 
 [If you are interested in joining the team, please fill out this form.](https://forms.gle/aFEdJyeHLXjouEPX9) We will be reaching out to you shortly.
 
