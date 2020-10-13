@@ -38,4 +38,6 @@ Thank you for your patience and cooperation!
 
 [Liability Waiver - Mentors](assets/documents/First-Robotics-Liability-Waiver-Mentors.pdf)
 
+[2020 Safety Manual](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/team-resources/safety/2020/2020-FIRST-Robotics-Competition-Safety-Manual.pdf)
+
 
