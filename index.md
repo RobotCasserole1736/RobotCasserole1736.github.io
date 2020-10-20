@@ -6,8 +6,6 @@ layout: home_style
 
 Thank you for coming by our open house! If you missed it, you can see our recordings of it: [Part 1](https://www.youtube.com/watch?v=yFnMWqftO2M&feature=youtu.be), [Part 2](https://www.youtube.com/watch?v=2lldWpNr4to&feature=youtu.be), and [Part 3](https://www.youtube.com/watch?v=P3kbeSEc5go&feature=youtu.be).
 
-[If you are interested in joining the team, please fill out this form.](https://forms.gle/aFEdJyeHLXjouEPX9) We will be reaching out to you shortly.
-
 <iframe width="860" height="480" src="https://www.youtube.com/embed/Rr36YomYFO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr>
@@ -20,9 +18,7 @@ _Tuesday 6-7pm_: Full Team Meeting
 
 _Thursday 6-7pm_: Subteam & Committee meetings
 
-Full-team meetings will be conducted **virtually**. 
-
-We are currently working on plans to meet in small groups with approprate safety measures. Team Calendar will be updated, and meeting information will be provided to students as the offseason progresses.
+[See the calendar](https://calendar.google.com/calendar/embed?src=frc1736%40gmail.com&ctz=America%2FChicago) for more details.
 
 Thank you for your patience and cooperation!
 
