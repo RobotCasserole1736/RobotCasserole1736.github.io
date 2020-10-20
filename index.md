@@ -12,7 +12,7 @@ Thank you for coming by our open house! If you missed it, you can see our record
 
 # COVID 19 Updates
 
-We are **currently** planning the following schedule from October 1st through mid-December:
+We are **currently** conducting a modified meeting schedule from October 1st through mid-December:
 
 _Tuesday 6-7pm_: Full Team Meeting
 
