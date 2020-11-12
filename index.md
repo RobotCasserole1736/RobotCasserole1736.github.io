@@ -2,6 +2,16 @@
 layout: home_style
 ---
 
+# COVID 19 Updates
+
+Based on [Illinois Department of Public Health Guidelines](https://dph.illinois.gov/news/public-health-officials-announce-12657-new-cases-coronavirus-disease), we are **suspending all in-person meeting until further notice.**
+
+Please keep Tuesday/Thursday 6-8pm open if you can - we do intend to try to get some virtual meetings in. Details to come.
+
+Thank you for your patience and cooperation!
+
+<hr>
+
 # WELCOME NEW STUDENTS!
 
 Thank you for coming by our open house! If you missed it, you can see our recordings of it: [Part 1](https://www.youtube.com/watch?v=yFnMWqftO2M&feature=youtu.be), [Part 2](https://www.youtube.com/watch?v=2lldWpNr4to&feature=youtu.be), and [Part 3](https://www.youtube.com/watch?v=P3kbeSEc5go&feature=youtu.be).
@@ -10,19 +20,6 @@ Thank you for coming by our open house! If you missed it, you can see our record
 
 <hr>
 
-# COVID 19 Updates
-
-We are **currently** conducting a modified meeting schedule from October 1st through mid-December:
-
-_Tuesday 6-7pm_: Full Team Meeting
-
-_Thursday 6-7pm_: Subteam & Committee meetings
-
-[See the calendar](https://calendar.google.com/calendar/embed?src=frc1736%40gmail.com&ctz=America%2FChicago) for more details.
-
-Thank you for your patience and cooperation!
-
-<hr>
 
 # 2020-2021 Season Resources
 
