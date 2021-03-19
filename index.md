@@ -8,6 +8,8 @@ Please reference Discord for the latest info as we transition back to in-person 
 
 Main meeting times remain _Tuesday/Thursday 6-8PM_
 
+<hr>
+
 <iframe width="860" height="480" src="https://www.youtube.com/embed/Rr36YomYFO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr>
