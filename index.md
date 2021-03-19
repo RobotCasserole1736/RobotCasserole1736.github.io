@@ -2,33 +2,11 @@
 layout: home_style
 ---
 
-# WELCOME NEW STUDENTS!
-
-Incoming students are welcomed to our Virtual Open House on **Thursday, September 24th, 6PM to 8PM**
-
-A zoom meeting link will be posted here soon. Timing is flexible: call in whenever you can, learn about the team, and leave whenever you need to.
-
-All are welcome! Come see the work our students and mentors do, and how you can get involved!
-
-[Please share your contact info and interests with us here](https://forms.gle/wJrJxuQZF1pF3mnS9). However, no formal sign-up is required to attend the open house.
-
-<iframe width="95%" height="480" src="https://www.youtube.com/embed/Rr36YomYFO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<hr>
-
 # COVID 19 Updates
 
-We are **currently** planning the following schedule from October 1st through mid-December:
+Please reference Discord for the latest info as we transition back to in-person meetings.
 
-_Tuesday 6-7pm_: Full Team Meeting
-
-_Thursday 6-7pm_: Subteam & Committee meetings
-
-All meetings will be conducted **virtually**. 
-
-We **do not plan to meet in person during the fall of 2020.**  We will focus on skill building and background information in prep for the 2021 build season.
-
-We **tentatively** plan to resume hands-on, in-person meetings in January 2021.
+Main meeting times remain _Tuesday/Thursday 6-8PM_
 
 Thank you for your patience and cooperation!
 

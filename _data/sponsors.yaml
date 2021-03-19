@@ -7,6 +7,7 @@
   logoHeight: 150px
   website: https://www.caterpillar.com
   yearsActive: 
+    - 2021
     - 2020
     - 2019
     - 2018
@@ -29,7 +30,17 @@
   logoHeight: 150px
   website: https://www.playingwithfusion.com
   yearsActive: 
+    - 2021
     - 2020
+
+
+- name: Don Gurik
+  logo: assets/img/sponsorLogos/don_gurik_logo.png
+  logoHeight: 50
+  website: 
+  yearsActive: 
+    - 2021
+
 
 - name: Belcan Global Engineering
   logo: assets/img/sponsorLogos/belcan_logo.png
