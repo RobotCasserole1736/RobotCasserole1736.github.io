@@ -12,7 +12,7 @@ All are welcome! Come see the work our students and mentors do, and how you can 
 
 [Please share your contact info and interests with us here](https://forms.gle/wJrJxuQZF1pF3mnS9). However, no formal sign-up is required to attend the open house.
 
-<iframe width="860" height="480" src="https://www.youtube.com/embed/Rr36YomYFO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="95%" height="480" src="https://www.youtube.com/embed/Rr36YomYFO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <hr>
 
