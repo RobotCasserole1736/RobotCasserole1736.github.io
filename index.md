@@ -4,9 +4,9 @@ layout: home_style
 
 # COVID 19 Updates
 
-Please reference Discord for the latest info as we transition back to in-person meetings.
+In response to the latest case spike in Peoria County, we are suspending team in-person meetings from **April 9th, 2021 through May 17th, 2021**.
 
-Main meeting times remain _Tuesday/Thursday 6-8PM_
+Please reference Discord for the latest info.
 
 <hr>
 
