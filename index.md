@@ -4,9 +4,9 @@ layout: home_style
 
 # COVID 19 Updates
 
-In response to the latest case spike in Peoria County, we are suspending team in-person meetings from **April 9th, 2021 through May 17th, 2021**.
+We are resuming in-person summer meetings from **May 18th, 2021 through July 29th, 2021**.
 
-Please reference Discord for the latest info.
+Please reference Discord or your email for the latest info.
 
 <hr>
 
