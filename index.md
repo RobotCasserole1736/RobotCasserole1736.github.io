@@ -2,24 +2,32 @@
 layout: home_style
 ---
 
+# Welcome New Students!
+
+Please visit us during our Open House to learn a bit more about the team, and get signed up to work with the team!
+
+August 31st, 6-8PM, at [the warehouse](contact.html)
+
+September 2nd, 6-8PM, at [the warehouse](contact.html)
+
+Regular offseason meetings are scheduled to start _September 7th_.
+
+
+{% include youtube_embed.html embedLink="https://www.youtube.com/embed/Rr36YomYFO0" %}
+
+
 # COVID 19 Updates
 
-We are resuming in-person summer meetings from **May 18th, 2021 through July 29th, 2021**.
+In-person summer meetings from _May 18th, 2021 through July 29th, 2021_.
 
-Please reference Discord or your email for the latest info.
-
-<hr>
-
-<iframe width="860" height="480" src="https://www.youtube.com/embed/Rr36YomYFO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<hr>
+See your email or discord for the full plan as we ramp back to a normal 2021-2022 season.
 
 
-# 2020-2021 Season Resources
+# 2021-2022 Season Resources
 
 [Liability Wavier - Students](assets/documents/First-Robotics-Liability-Waiver-Students.pdf)
 
-[Team Handbook and Acknowledgement Form](assets/documents/RC_handbook_2020-2021_v1p2.pdf)
+[Team Handbook and Acknowledgement Form - COMING SOON!](https://cat-bounce.com/)
 
 [Team Google Calendar](https://calendar.google.com/calendar/embed?src=frc1736%40gmail.com&ctz=America%2FChicago)
 
