@@ -27,7 +27,7 @@ See your email or discord for the full plan as we ramp back to a normal 2021-202
 
 [Liability Wavier - Students](assets/documents/First-Robotics-Liability-Waiver-Students.pdf)
 
-[Team Handbook and Acknowledgement Form - COMING SOON!](https://cat-bounce.com/)
+[Team Handbook and Acknowledgement Form](assets/documents/RC_handbook_2021-2022_v1p0.pdf)
 
 [Team Google Calendar](https://calendar.google.com/calendar/embed?src=frc1736%40gmail.com&ctz=America%2FChicago)
 
@@ -35,4 +35,4 @@ See your email or discord for the full plan as we ramp back to a normal 2021-202
 
 [2020 Safety Manual](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/team-resources/safety/2020/2020-FIRST-Robotics-Competition-Safety-Manual.pdf)
 
-
+[Team Description](assets/documents/RC_team_description_2021-2022_v1p0.pdf)
