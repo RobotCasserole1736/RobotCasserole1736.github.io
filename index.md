@@ -18,9 +18,9 @@ Regular offseason meetings are scheduled to start _September 7th_.
 
 # COVID 19 Updates
 
-In-person summer meetings from _May 18th, 2021 through July 29th, 2021_.
+The open-house will continue, outdoors, as scheduled.
 
-See your email or discord for the full plan as we ramp back to a normal 2021-2022 season.
+We are currently investigating the most effictive and safe way to execute this season. Keep an eye on your emails and discord for more info.
 
 
 # 2021-2022 Season Resources
