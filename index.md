@@ -6,9 +6,9 @@ layout: home_style
 
 Please visit us during our Open House to learn a bit more about the team, and get signed up to work with the team!
 
-August 31st, 6-8PM, at [the warehouse](contact.html)
+August 31st, 6-8PM, outside, in the parking lot of [the warehouse](contact.html)
 
-September 2nd, 6-8PM, at [the warehouse](contact.html)
+September 2nd, 6-8PM, outside, in the parking lot of [the warehouse](contact.html)
 
 Regular offseason meetings are scheduled to start _September 7th_.
 
