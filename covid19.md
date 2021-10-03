@@ -28,7 +28,8 @@ Aligning with [the Illinois Department of Public Health guidelines](https://www.
 
 Single-layer athletic face coverings (e.g., ‘gaiters’ / neck warmers / bandanas) are NOT allowed.
 Masks will be available in the team areas for people who arrive without a compliant mask.
-Vaccination Information
+
+# Vaccination Information
 
 [Per the CDC, COVID-19 vaccines are effective at protecting you from COVID-19, especially severe illness and death.](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/keythingstoknow.html) COVID-19 vaccines reduce the risk of people spreading the virus that causes COVID-19. Though vaccination is not currently a team requirement, all team members are strongly encouraged to get the vaccine if they are able to do so.
 
@@ -79,7 +80,8 @@ Members are not required to submit any particularly medical data to the team. Ho
 # Contingency and Non-Continuation of Meetings
 
 The Mentor Team will regularly review current COVID infection rates and Hospital/ICU availability in our area. At their discretion, team meetings may be limited or ended as a pandemic-mitigating measure.
-Violations
+
+# Violations
 
 This policy is to be treated with the same importance as our team safety policies. Knowledge of the policy is expected of every team member. The policy is to be followed in its entirety, without exception or modification. Warnings for non-compliance should not be expected. Egregious or repeat violations will result in immediate removal from the team.
 
