@@ -18,16 +18,16 @@ It is enforced by mentors of Team 1736 as a condition of our usage of the PPK Wa
 
 # Mask Requirements
 
-While inside the warehouse, a face covering is required.
-Aligning with [the Illinois Department of Public Health guidelines](https://www.dph.illinois.gov/covid19/community-guidance/mask-use), the face covering:
+While inside the warehouse or at other team meetings, a face covering is required.
+Aligning with [the latest CDC recommendations](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html), the face covering:
 
- * Must have two or more layers, sufficient to stop the spread of particles containing the COVID-19 virus.
+ * Should be an N95 style mask (including KN95, KF94, and other high quality respirators)
  * Must be worn over the nose and mouth, secured under the chin.
  * Must fit well and be worn as designed
  * Must NOT have vents on them of any kind
 
 Single-layer athletic face coverings (e.g., ‘gaiters’ / neck warmers / bandanas) are NOT allowed.
-Masks will be available in the team areas for people who arrive without a compliant mask.
+KF94 masks will be available in the team areas for people who arrive without a compliant mask.
 
 # Vaccination Information
 
@@ -57,11 +57,11 @@ Individuals must stop participation in all in-person team activities if any of t
 
  * They exhibit [CDC-defined symptoms of COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html)
  * They receive test results indicating an active COVID-19 infection
- * They have been exposed to an individual with a active COVID-19 infection for more than 30 minutes
+ * They have been exposed to an individual with a active COVID-19 infection for more than 15 cumulative minutes
 
 Individuals may resume team participation when:
 
-* 10 days from the onset of symptoms or first exposure AND 
+* 5 days from the onset of symptoms or latest exposure AND 
 * Fever free for 24 hours without the use of fever reducing medication
 
 The team reserves the right to perform a temperature check of any member at the warehouse.
@@ -103,3 +103,4 @@ This page describes the current COVID-19 response and policy of FRC1736, Robot C
 | ----------- | ------------- | -----------      | 
 | 0.0         | Sept 04, 2021 | Initial Contents | 
 | 1.0         | Oct 02, 2021  | First Policy released | 
+| 1.1         | Jan 15, 2022  | Masking and quarantine policies changed | 
