@@ -13,8 +13,8 @@ FRC Team 1736 believes a successful season requires meeting in person, at facili
 
 # Development and Ownership
 
-This policy is developed jointly by FRC Team 1736 Robot Casserole and Caterpillar Inc.
-It is enforced by mentors of Team 1736 as a condition of our usage of the PPK Warehouse facility, which is managed by Caterpillar Inc.
+This policy is developed by FRC Team 1736 Robot Casserole.
+It is enforced by mentors of Team 1736 as a condition of our usage of our build space.
 
 # Mask Requirements
 
@@ -104,3 +104,4 @@ This page describes the current COVID-19 response and policy of FRC1736, Robot C
 | 0.0         | Sept 04, 2021 | Initial Contents | 
 | 1.0         | Oct 02, 2021  | First Policy released | 
 | 1.1         | Jan 15, 2022  | Masking and quarantine policies changed | 
+| 1.2         | Jan 20, 2022  | Updated Development and Ownership | 
