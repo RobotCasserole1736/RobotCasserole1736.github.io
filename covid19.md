@@ -19,9 +19,10 @@ It is enforced by mentors of Team 1736 as a condition of our usage of our build 
 # Mask Requirements
 
 While inside the warehouse or at other team meetings, a face covering is required.
-Aligning with [the latest CDC recommendations](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html), the face covering:
+Aligning with [CDC recommendations](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html), the face covering:
 
- * Should be an N95 style mask (including KN95, KF94, and other high quality respirators)
+ * Should be the most protective mask you can wear that fits well and you will wear consistently
+ * Cloth masks, surgical masks, and respirators are acceptable so long as they are 2+ layers.
  * Must be worn over the nose and mouth, secured under the chin.
  * Must fit well and be worn as designed
  * Must NOT have vents on them of any kind
