@@ -106,3 +106,4 @@ This page describes the current COVID-19 response and policy of FRC1736, Robot C
 | 1.0         | Oct 02, 2021  | First Policy released | 
 | 1.1         | Jan 15, 2022  | Masking and quarantine policies changed | 
 | 1.2         | Jan 20, 2022  | Updated Development and Ownership | 
+| 1.3         | Feb 14, 2022  | Updated masking policy | 
