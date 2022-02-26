@@ -67,7 +67,7 @@ Documents for download should go in `assets/documents` folder. Avoid spaces or s
 ## Advanced operations
 
 1) Git Clone this repo onto your PC
-2) Run the 1_viewChangesLocally.bat file. Web browser should launch with local copy of the website
+2) Run the `_viewChangesLocally.bat` file. Web browser should launch with local copy of the website
 3) Make changes to files, observing updates to local copy
 4) Commit and push changes once validated. Pushing to master makes the website live.
 

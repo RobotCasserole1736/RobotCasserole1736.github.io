@@ -43,6 +43,12 @@
   yearsActive: 
     - 2021
 
+- name: Catrina's Express
+  logo: assets/img/sponsorLogos/catrinas_logo.jpg
+  logoHeight: 150
+  website: https://www.facebook.com/catrinasexpress/
+  yearsActive: 
+    - 2022
 
 - name: Belcan Global Engineering
   logo: assets/img/sponsorLogos/belcan_logo.png
