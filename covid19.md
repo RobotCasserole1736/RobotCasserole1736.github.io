@@ -16,41 +16,9 @@ FRC Team 1736 believes a successful season requires meeting in person, at facili
 This policy is developed by FRC Team 1736 Robot Casserole.
 It is enforced by mentors of Team 1736 as a condition of our usage of our build space.
 
-# Mask Requirements
+# Low Community Level Requirements
 
-While inside the warehouse or at other team meetings, a face covering is required.
-Aligning with [CDC recommendations](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html), the face covering:
-
- * Should be the most protective mask you can wear that fits well and you will wear consistently
- * Cloth masks, surgical masks, and respirators are acceptable so long as they are 2+ layers.
- * Must be worn over the nose and mouth, secured under the chin.
- * Must fit well and be worn as designed
- * Must NOT have vents on them of any kind
-
-Single-layer athletic face coverings (e.g., ‘gaiters’ / neck warmers / bandanas) are NOT allowed.
-KF94 masks will be available in the team areas for people who arrive without a compliant mask.
-
-# Vaccination Information
-
-[Per the CDC, COVID-19 vaccines are effective at protecting you from COVID-19, especially severe illness and death.](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/keythingstoknow.html) COVID-19 vaccines reduce the risk of people spreading the virus that causes COVID-19. Though vaccination is not currently a team requirement, all team members are strongly encouraged to get the vaccine if they are able to do so.
-
-# Physical Distancing
-
-To reduce transmission rates, all team members are asked to maintain distance between each other.
-[Per CDC Classroom Guidelines](https://www.cdc.gov/media/releases/2021/p0319-new-evidence-classroom-physical-distance.html), 3 feet of separation should be maintained as much as practical. We expect to achieve this by:
- * Where possible, alternating seating locations across tables, facing the same direction.
- * Using amplification systems to ensure presenters can be heard across large areas
- * Spreading team activities outside (weather permitting) and onto the practice field
-
-# Capacity Limits
-
-Based on distancing requirements and available floor space, the build area occupancy shall be limited to *50 people*.
-
-# Attendance Data for Contact Tracing
-
-The team will be using attendance data for tracing contact between individuals if a positive case of COVID-19 is reported. Failure to maintain accurate attendance records inhibits our ability to perform this tracing.
-
-All students are required to perform a successful sign in within 5 minutes of entering the facility using the team’s electronic sign in system. If a successful sign-in is not possible, you must notify the mentor team in writing with your name, and the date of the meeting you were in attendance.
+Aligning with CDC guidelines for a [Community Level of Low](https://www.cdc.gov/coronavirus/2019-ncov/science/community-levels.html#:~:text=If%20the%20area%20has%20fewer,%25%3A%20The%20level%20is%20low.), masking, social distancing, and capacity limits are no longer required. Team members may continue to wear a mask if they desire.
 
 # Symptom- and Contact- Free Participation
 
@@ -82,6 +50,8 @@ Members are not required to submit any particularly medical data to the team. Ho
 
 The Mentor Team will regularly review current COVID infection rates and Hospital/ICU availability in our area. At their discretion, team meetings may be limited or ended as a pandemic-mitigating measure.
 
+At this time, the next review date is set for when the Peoria County Community Level returns to a "High" level by CDC metrics.
+
 # Violations
 
 This policy is to be treated with the same importance as our team safety policies. Knowledge of the policy is expected of every team member. The policy is to be followed in its entirety, without exception or modification. Warnings for non-compliance should not be expected. Egregious or repeat violations will result in immediate removal from the team.
@@ -93,10 +63,7 @@ This policy is to be treated with the same importance as our team safety policie
  * [CDC Quarantine Guidelines](https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/scientific-brief-options-to-reduce-quarantine.html)
  * [Peoria School District 150 Policies](https://www.peoriapublicschools.org/cms/lib/IL01001530/Centricity/Domain/7645/000%20RTS%20Plan%2021-22SY%20Final%20REV08-02-2021a.pdf)
 
-
-
 This page describes the current COVID-19 response and policy of FRC1736, Robot Casserole. Compliance with this document is a condition of team participation for all students, mentors, parents, and visitors of the team.
-
 
 # Revision History
 
@@ -107,3 +74,4 @@ This page describes the current COVID-19 response and policy of FRC1736, Robot C
 | 1.1         | Jan 15, 2022  | Masking and quarantine policies changed | 
 | 1.2         | Jan 20, 2022  | Updated Development and Ownership | 
 | 1.3         | Feb 14, 2022  | Updated masking policy | 
+| 1.4         | May 2, 2022   | Updated masking policy | 
