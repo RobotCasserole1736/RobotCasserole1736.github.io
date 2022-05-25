@@ -16,9 +16,13 @@ FRC Team 1736 believes a successful season requires meeting in person, at facili
 This policy is developed by FRC Team 1736 Robot Casserole.
 It is enforced by mentors of Team 1736 as a condition of our usage of our build space.
 
-# Low Community Level Requirements
+# High Community Level Requirements
 
-Aligning with CDC guidelines for a [Community Level of Low](https://www.cdc.gov/coronavirus/2019-ncov/science/community-levels.html#:~:text=If%20the%20area%20has%20fewer,%25%3A%20The%20level%20is%20low.), masking, social distancing, and capacity limits are no longer required. Team members may continue to wear a mask if they desire.
+As a team, we require a properly worn, well fitting mask for all individuals indoors at the warehouse, or traveling with the team to other events. This is a requirement, above and beyond the CDC _recommendations_ for a [Community Level of High](https://www.cdc.gov/coronavirus/2019-ncov/science/community-levels.html).
+
+Vaccines are very effective in preventing severe illness and hospitalization. If you haven’t been vaccinated, the team strongly encourages you to do so.
+
+These requirements will be reviewed no less than weekly, and adjusted to ensure they meet or exceed any requirements passed on by Caterpillar (as a condition of us using the warehouse) or governement and public health authorities.
 
 # Symptom- and Contact- Free Participation
 
@@ -75,3 +79,4 @@ This page describes the current COVID-19 response and policy of FRC1736, Robot C
 | 1.2         | Jan 20, 2022  | Updated Development and Ownership | 
 | 1.3         | Feb 14, 2022  | Updated masking policy | 
 | 1.4         | May 2, 2022   | Updated masking policy | 
+| 1.5         | May 25, 2022  | Updated masking policy | 
