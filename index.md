@@ -1,6 +1,11 @@
 ---
 layout: home_style
 ---
+# THANK YOU!!
+
+Thank you for a wonderful 2021-2022 season! 
+
+For more info on joining the team, keep an eye out for announcements about our team's Open House in September.
 
 # COVID 19 Updates
 
