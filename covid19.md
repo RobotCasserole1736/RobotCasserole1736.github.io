@@ -16,13 +16,13 @@ FRC Team 1736 believes a successful season requires meeting in person, at facili
 This policy is developed by FRC Team 1736 Robot Casserole.
 It is enforced by mentors of Team 1736 as a condition of our usage of our build space.
 
-# High Community Level Requirements
+# Reliance on Other
 
-As a team, we require a properly worn, well fitting mask for all individuals indoors at the warehouse, or traveling with the team to other events. This is a requirement, above and beyond the CDC _recommendations_ for a [Community Level of High](https://www.cdc.gov/coronavirus/2019-ncov/science/community-levels.html).
+Facemask, social distancing, and capacity limits will be set to maintain compliance with requirements from the CDC, Illinois Department of Public Health, Peoria County & other local health authorities, and Caterpillar Inc. (the responsible party for the meeting space). Additionally, we will look to local school districts and government institutions for guidance on forming a policy. In general, we will follow the most conservative policy.
 
-Vaccines are very effective in preventing severe illness and hospitalization. If you haven’t been vaccinated, the team strongly encourages you to do so.
+At the moment, there are no specific requirements for facemasking, social distancing, or capacity limits.
 
-These requirements will be reviewed no less than weekly, and adjusted to ensure they meet or exceed any requirements passed on by Caterpillar (as a condition of us using the warehouse) or governement and public health authorities.
+This will be reviewed at least on a monthly basis.
 
 # Symptom- and Contact- Free Participation
 
@@ -80,3 +80,5 @@ This page describes the current COVID-19 response and policy of FRC1736, Robot C
 | 1.3         | Feb 14, 2022  | Updated masking policy | 
 | 1.4         | May 2, 2022   | Updated masking policy | 
 | 1.5         | May 25, 2022  | Updated masking policy | 
+| 1.6         | July 21, 2022 | Updated masking policy | 
+
