@@ -6,7 +6,7 @@ layout: home_style
 
 For returning students, check our calendar and your email for information on our fall meeting schedule.
 
-For new students looking to join the team, email us for info, and drop by our team's open house on **SEPTEMBER 27th or 29th, 6-8pm**, [at our warehouse](https://robotcasserole.org/contact.html)
+For new students looking to join the team, email us for info, and drop by our team's open house on **SEPTEMBER 27th or 29th, 6-8pm**, [at our warehouse](https://robotcasserole.org/contact.html).
 
 # 2022-2023 Season Resources
 
