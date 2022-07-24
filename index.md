@@ -1,18 +1,14 @@
 ---
 layout: home_style
 ---
-# THANK YOU!!
 
-Thank you for a wonderful 2021-2022 season! 
+# Welcome back, students!!
 
-For more info on joining the team, keep an eye out for announcements about our team's Open House in September.
+For returning students, check our calendar and your email for information on our fall meeting schedule.
 
-# COVID 19 Updates
+For new students looking to join the team, email us for info, and drop by our team's open house on **SEPTEMBER 27th or 29th, 6-8pm**
 
-Our Team Policy is [posted here](covid19.html)
-
-
-# 2021-2022 Season Resources
+# 2022-2023 Season Resources
 
 ## All Students
 
