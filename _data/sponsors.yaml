@@ -7,6 +7,7 @@
   logoHeight: 150px
   website: https://www.caterpillar.com
   yearsActive: 
+    - 2023
     - 2022
     - 2021
     - 2020
@@ -30,6 +31,7 @@
   logoHeight: 150px
   website: https://www.playingwithfusion.com
   yearsActive: 
+    - 2023
     - 2022
     - 2021
     - 2020
@@ -47,6 +49,7 @@
   logoHeight: 150
   website: https://www.facebook.com/catrinasexpress/
   yearsActive: 
+    - 2023
     - 2022
 
 - name: Portillo's Hot Dogs, LLC
@@ -54,6 +57,7 @@
   logoHeight: 150
   website: https://www.portillos.com/index.html
   yearsActive: 
+    - 2023
     - 2022
 
 - name: Belcan Global Engineering
@@ -102,6 +106,13 @@
 - name: Accurate Perforating
   logo: assets/img/sponsorLogos/ap_logo.png
   logoHeight: 75
-  website: https://www.ptc.com/
+  website: https://www.accurateperforating.com/
   yearsActive: 
     - 2017
+    
+- name: Just Kidz Dentistry
+  logo: assets/img/sponsorLogos/jcd_logo.png
+  logoHeight: 75
+  website: https://www.justkidzdentistry.com/
+  yearsActive: 
+    - 2023
