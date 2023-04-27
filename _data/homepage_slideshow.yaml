@@ -18,23 +18,23 @@ slider_config:
     image: assets/img/mainPageSlider/slide3.jpg
 
   # Slide 4
-  - big_caption: Compete!
+  - big_caption: Travel
     small_caption: Attend regional events local and on-the-road
     image: assets/img/mainPageSlider/slide4.jpg
 
   # Slide 5
   - big_caption: Join the Legacy
-    small_caption: Students, Mentors, and Sponsors welcome - No prior experience needed!
+    small_caption: Who's Hungry? I'm Hungry!
     image: assets/img/mainPageSlider/slide5.jpg
 
   # Slide 6
-  - big_caption: Integration
-    small_caption: Work on Cross-Functional Projects
+  - big_caption: Learn Teamwork
+    small_caption: Build robots, build relationships
     image: assets/img/mainPageSlider/slide6.jpg
 
   # Slide 7
-  - big_caption: Design
-    small_caption: Learn Team-based Technical Problem Solving
+  - big_caption: Compete Hard
+    small_caption: Form alliances and friendships
     image: assets/img/mainPageSlider/slide7.jpg
 
   # Slide 8
