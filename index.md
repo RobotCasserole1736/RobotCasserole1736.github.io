@@ -2,6 +2,12 @@
 layout: home_style
 ---
 
+# Welcome New Students!
+
+If you're interested in joining our team, please drop by our open house on **August 31st** or **September 5th**.
+
+{% include youtube_embed.html embedLink="https://www.youtube.com/embed/Rr36YomYFO0" %}
+
 # 2022-2023 Season Resources
 
 ## All Students
@@ -26,6 +32,3 @@ layout: home_style
 
 [Liability Waiver - Mentors](assets/documents/First-Robotics-Liability-Waiver-Mentors.pdf)
 
-
-
-{% include youtube_embed.html embedLink="https://www.youtube.com/embed/Rr36YomYFO0" %}
