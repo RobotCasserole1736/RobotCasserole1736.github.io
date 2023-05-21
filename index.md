@@ -6,7 +6,7 @@ layout: home_style
 
 If you're interested in joining our team, please drop by our open house on **August 31st** or **September 5th**.
 
-{% include youtube_embed.html embedLink="https://www.youtube.com/embed/Rr36YomYFO0" %}
+{% include youtube_embed.html embedLink="https://www.youtube.com/embed/3XNUWOozyOQ" %}
 
 # 2022-2023 Season Resources
 
@@ -31,4 +31,3 @@ If you're interested in joining our team, please drop by our open house on **Aug
 [Mentor Handbook](assets/documents/RC_mentor_handbook_2022-2023_v1p0.pdf)
 
 [Liability Waiver - Mentors](assets/documents/First-Robotics-Liability-Waiver-Mentors.pdf)
-
