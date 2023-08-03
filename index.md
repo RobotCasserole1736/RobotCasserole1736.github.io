@@ -6,6 +6,8 @@ layout: home_style
 
 If you're interested in joining our team, please drop by our open house on **August 31st** or **September 5th**.
 
+Location is still TBD
+
 {% include youtube_embed.html embedLink="https://www.youtube.com/embed/3XNUWOozyOQ" %}
 
 # 2023-2024 Season Resources
