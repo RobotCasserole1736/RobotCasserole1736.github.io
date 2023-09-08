@@ -4,9 +4,9 @@ layout: home_style
 
 # Welcome New Students!
 
-If you're interested in joining our team, please drop by our open house on **August 31st** or **September 5th**.
+Thank you for coming by our open house! We are reviewing applications for this year's team.
 
-Location is at [our build space](https://robotcasserole.org/contact.html).
+Please [reach out to us](https://robotcasserole.org/contact.html) if you have not recieved a link to apply to the team.
 
 {% include youtube_embed.html embedLink="https://www.youtube.com/embed/3XNUWOozyOQ" %}
 
