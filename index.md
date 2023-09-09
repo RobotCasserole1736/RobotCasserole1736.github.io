@@ -12,7 +12,7 @@ If you're interested in joining our team, please drop by our open house on **Aug
 
 ## All Students
 
-[Team Handbook and Acknowledgement Form](assets/documents/RC_handbook_2023-2024_v1p0.pdf)
+[Team Handbook and Acknowledgement Form](assets/documents/RC_handbook_2023-2024_v1p1.pdf)
 
 [Liability Wavier - Students](assets/documents/First-Robotics-Liability-Waiver-Students.pdf)
 
