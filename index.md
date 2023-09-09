@@ -14,7 +14,7 @@ Please [reach out to us](https://robotcasserole.org/contact.html) if you have no
 
 ## All Students
 
-[Team Handbook and Acknowledgement Form](assets/documents/RC_handbook_2023-2024_v1p0.pdf)
+[Team Handbook and Acknowledgement Form](assets/documents/RC_handbook_2023-2024_v1p1.pdf)
 
 [Liability Wavier - Students](assets/documents/First-Robotics-Liability-Waiver-Students.pdf)
 
