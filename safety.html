@@ -1,0 +1,91 @@
+---
+layout: img_banner_style
+permalink: /safety
+bannerImage: assets/img/general/historyRusty.png
+bannerCaption: Safety
+---
+<!-- Main Container -->
+<div id="banners">
+  <!-- TODO - put a picture here? -->
+</div>
+
+<div class="container-fluid-kamn">
+  <div class="row">
+    <div class="container">
+      <h1>
+        Safety Mission & Vision
+      </h1>
+      To ensure all team members work and return home without injury.
+      <br>
+      <h1>
+        Material Safety Data Sheets
+      </h1>
+        <h2>Adhesives</h2>
+        <ul>
+          {% assign documents_folder = "assets/documents/msds/adhesive" %}
+          {% for file in site.static_files %}
+            {% if file.path contains documents_folder %}
+              <li>
+                {% capture filename %}{{ file.path | split: '/' | last }}{% endcapture %}
+                <a href="{{ file.path }}">{{ filename | uri_escape }}</a>
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+
+        <h2>Cleaners</h2>
+        <ul>
+          {% assign documents_folder = "assets/documents/msds/cleaner" %}
+          {% for file in site.static_files %}
+            {% if file.path contains documents_folder %}
+              <li>
+                {% capture filename %}{{ file.path | split: '/' | last }}{% endcapture %}
+                <a href="{{ file.path }}">{{ filename | uri_escape }}</a>
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+
+        <h2>Lubricants</h2>
+        <ul>
+          {% assign documents_folder = "assets/documents/msds/lubricant" %}
+          {% for file in site.static_files %}
+            {% if file.path contains documents_folder %}
+              <li>
+                {% capture filename %}{{ file.path | split: '/' | last }}{% endcapture %}
+                <a href="{{ file.path }}">{{ filename | uri_escape }}</a>
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+
+        <h2>Paints</h2>
+        <ul>
+          {% assign documents_folder = "assets/documents/msds/paint" %}
+          {% for file in site.static_files %}
+            {% if file.path contains documents_folder %}
+              <li>
+                {% capture filename %}{{ file.path | split: '/' | last }}{% endcapture %}
+                <a href="{{ file.path }}">{{ filename | uri_escape }}</a>
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+
+        <h2>Others</h2>
+        <ul>
+          {% assign documents_folder = "assets/documents/msds/other" %}
+          {% for file in site.static_files %}
+            {% if file.path contains documents_folder %}
+              <li>
+                {% capture filename %}{{ file.path | split: '/' | last }}{% endcapture %}
+                <a href="{{ file.path }}">{{ filename | uri_escape }}</a>
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+        <br>
+      </div>
+    </div>
+  </div>    
+<!--End Main Container -->
