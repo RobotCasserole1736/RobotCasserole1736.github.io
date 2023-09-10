@@ -4,9 +4,9 @@ layout: home_style
 
 # Welcome New Students!
 
-Thank you for coming by our open house! We are reviewing applications for this year's team.
+The 2023-2024 Team Roster has been set, check your emails for more info.
 
-Please [reach out to us](https://robotcasserole.org/contact.html) if you have not recieved a link to apply to the team.
+Please [reach out to us](https://robotcasserole.org/contact.html) if you have not heard from us.
 
 {% include youtube_embed.html embedLink="https://www.youtube.com/embed/3XNUWOozyOQ" %}
 
@@ -14,7 +14,7 @@ Please [reach out to us](https://robotcasserole.org/contact.html) if you have no
 
 ## All Students
 
-[Team Handbook and Acknowledgement Form](assets/documents/RC_handbook_2023-2024_v1p1.pdf)
+[Team Handbook and Acknowledgement Form](assets/documents/RC_handbook_2023-2024_v1p2.pdf)
 
 [Liability Wavier - Students](assets/documents/First-Robotics-Liability-Waiver-Students.pdf)
 
