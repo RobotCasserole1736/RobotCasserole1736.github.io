@@ -13,79 +13,67 @@ bannerCaption: Safety
   <div class="row">
     <div class="container">
       <h1>
-        Safety Mission & Vision
-      </h1>
-      To ensure all team members work and return home without injury.
+
       <br>
       <h1>
         Material Safety Data Sheets
       </h1>
-        <h2>Adhesives</h2>
-        <ul>
-          {% assign documents_folder = "assets/documents/msds/adhesive" %}
-          {% for file in site.static_files %}
-            {% if file.path contains documents_folder %}
-              <li>
-                {% capture filename %}{{ file.path | split: '/' | last }}{% endcapture %}
-                <a href="{{ file.path }}">{{ filename | uri_escape }}</a>
-              </li>
-            {% endif %}
-          {% endfor %}
-        </ul>
 
-        <h2>Cleaners</h2>
-        <ul>
-          {% assign documents_folder = "assets/documents/msds/cleaner" %}
-          {% for file in site.static_files %}
-            {% if file.path contains documents_folder %}
-              <li>
-                {% capture filename %}{{ file.path | split: '/' | last }}{% endcapture %}
-                <a href="{{ file.path }}">{{ filename | uri_escape }}</a>
-              </li>
-            {% endif %}
-          {% endfor %}
-        </ul>
+      <!-- Text input for filtering -->
+      <input type="text" id="file-filter" placeholder="Filter">
+      
 
-        <h2>Lubricants</h2>
-        <ul>
-          {% assign documents_folder = "assets/documents/msds/lubricant" %}
+        {% capture unique_categories %}
           {% for file in site.static_files %}
-            {% if file.path contains documents_folder %}
-              <li>
-                {% capture filename %}{{ file.path | split: '/' | last }}{% endcapture %}
-                <a href="{{ file.path }}">{{ filename | uri_escape }}</a>
-              </li>
+            {% assign parts = file.path | split: '/' %}
+            {% if parts[2] == 'documents' and parts[3] == 'msds' and parts[4] %}
+              {{ parts[4] }}
             {% endif %}
-          {% endfor %}
-        </ul>
+          {% endfor | uniq %}
+        {% endcapture %}
+        
+        {% assign categories = unique_categories | split: ' ' | uniq %}
 
-        <h2>Paints</h2>
-        <ul>
-          {% assign documents_folder = "assets/documents/msds/paint" %}
-          {% for file in site.static_files %}
-            {% if file.path contains documents_folder %}
-              <li>
-                {% capture filename %}{{ file.path | split: '/' | last }}{% endcapture %}
-                <a href="{{ file.path }}">{{ filename | uri_escape }}</a>
-              </li>
-            {% endif %}
-          {% endfor %}
-        </ul>
+        {% for category in categories %}
+          <h2>{{ category }}</h2>
+          <div class="row">
+            {% for file in site.static_files %}
+              {% assign parts = file.path | split: '/' %}
+              {% if parts[3] == 'msds' and parts[4] == category %}
+                <div class="col-sm-3 with-border">
+                  <div class="card">
+                    <div class="card-body">
+                      <a href="{{ file.path }}" target="_blank">{{parts[5]}}</a>
+                    </div>
+                  </div>
+                </div>
+              {% endif %}
+            {% endfor %}
+          </div>
+        {% endfor %}
 
-        <h2>Others</h2>
-        <ul>
-          {% assign documents_folder = "assets/documents/msds/other" %}
-          {% for file in site.static_files %}
-            {% if file.path contains documents_folder %}
-              <li>
-                {% capture filename %}{{ file.path | split: '/' | last }}{% endcapture %}
-                <a href="{{ file.path }}">{{ filename | uri_escape }}</a>
-              </li>
-            {% endif %}
-          {% endfor %}
-        </ul>
         <br>
       </div>
     </div>
   </div>    
+
+
+  <script>
+    // JavaScript to handle filtering by file path
+    document.getElementById('file-filter').addEventListener('input', function() {
+      var filter = this.value.toLowerCase();
+      var fileLinks = document.querySelectorAll('.container .card-body a');
+      
+      fileLinks.forEach(function(link) {
+        var filePath = link.textContent.toLowerCase();
+        var tableRow = link.closest('.col-sm-3');
+        
+        if (filePath.includes(filter)) {
+          tableRow.style.display = 'block';
+        } else {
+          tableRow.style.display = 'none';
+        }
+      });
+    });
+  </script>
 <!--End Main Container -->
