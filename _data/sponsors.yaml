@@ -7,6 +7,7 @@
   logoHeight: 150px
   website: https://www.caterpillar.com
   yearsActive: 
+    - 2024
     - 2023
     - 2022
     - 2021
@@ -31,6 +32,7 @@
   logoHeight: 150px
   website: https://www.playingwithfusion.com
   yearsActive: 
+    - 2024
     - 2023
     - 2022
     - 2021
@@ -49,6 +51,7 @@
   logoHeight: 150
   website: https://www.facebook.com/catrinasexpress/
   yearsActive: 
+    - 2024
     - 2023
     - 2022
 
@@ -116,3 +119,13 @@
   website: https://www.justkidzdentistry.com/
   yearsActive: 
     - 2023
+
+- name: Tadoughs Donuts
+  logo: assets/img/sponsorLogos/tadoughs.png
+  logoHeight: 75
+  website: https://www.tadoughs.com/
+  yearsActive: 
+    - 2024
+
+
+    
