@@ -27,6 +27,13 @@
     - 2007
     - 2006
 
+- name: Argosy Foundation
+  logo: assets/img/sponsorLogos/argosy.png
+  logoHeight: 100
+  website: https://www.tadoughs.com/
+  yearsActive: 
+    - 2024
+
 - name: Playing With Fusion
   logo: assets/img/sponsorLogos/pwf_logo.gif
   logoHeight: 150px
@@ -126,6 +133,7 @@
   website: https://www.tadoughs.com/
   yearsActive: 
     - 2024
+
 
 
     
