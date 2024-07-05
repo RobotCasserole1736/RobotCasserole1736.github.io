@@ -135,6 +135,18 @@
   yearsActive: 
     - 2024
 
+- name: Diamond Vogel Inc.
+  logo: assets/img/sponsorLogos/diamondVogelLogo.png
+  logoHeight: 75
+  website: https://www.diamondvogel.com/peoria
+  yearsActive: 
+    - 2024
 
+- name: Avantis
+  logo: assets/img/sponsorLogos/avantisLogo.png
+  logoHeight: 75
+  website: https://avantispeoria.com/
+  yearsActive: 
+    - 2024
 
     
