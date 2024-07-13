@@ -2,7 +2,7 @@
 layout: home_style
 ---
 
-# Interested In Joinig?
+# Interested In Joining?
 
 Keep an eye out for our open house! We're still in the works for planning it, but we'll post details soon.
 
