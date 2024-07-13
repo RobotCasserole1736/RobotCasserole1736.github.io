@@ -2,11 +2,11 @@
 layout: home_style
 ---
 
-# Welcome New Students!
+# Interested In Joinig?
 
-The 2023-2024 Team Roster has been set, check your emails for more info.
+Keep an eye out for our open house! We're still in the works for planning it, but we'll post details soon.
 
-Please [reach out to us](https://robotcasserole.org/contact.html) if you have not heard from us.
+At the open house, you'll be able to see who we are as a team, what we do, and how you can get involved!
 
 {% include youtube_embed.html embedLink="https://www.youtube.com/embed/3XNUWOozyOQ" %}
 
