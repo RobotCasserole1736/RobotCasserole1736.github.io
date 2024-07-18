@@ -4,7 +4,9 @@ layout: home_style
 
 # Interested In Joining?
 
-Keep an eye out for our open house! We're still in the works for planning it, but we'll post details soon.
+Our *OPEN HOUSE* is on August 13th or 15th, from 6:30-8PM.
+
+Drop by for either date, whenever you are free.
 
 At the open house, you'll be able to see who we are as a team, what we do, and how you can get involved!
 
