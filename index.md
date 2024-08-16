@@ -2,16 +2,24 @@
 layout: home_style
 ---
 
-# Interested In Joining?
+# Miss the Open House?
 
-Our *OPEN HOUSE* is on August 13th or 15th, from 6:30-8PM.
-
-Drop by for either date, whenever you are free.
-
-At the open house, you'll be able to see who we are as a team, what we do, and how you can get involved!
-
-{% include youtube_embed.html embedLink="https://www.youtube.com/embed/3XNUWOozyOQ" %}
+We are still welcoming new students! Please come to our first meeting on Thursday, August 22nd. See the Calendar for more details.
 
 # 2024-2025 Season Resources
 
-## Coming Soon!
+[Warehouse Access Request](https://forms.office.com/r/hAq99pmT3R)
+
+[Team Handbook and Acknowledgement Form](assets/documents/RC_handbook_2024-2025_v1p1.pdf)
+
+[Liability Wavier - Students](assets/documents/First-Robotics-Liability-Waiver-Students.pdf)
+
+[Team Google Calendar](https://calendar.google.com/calendar/embed?src=frc1736%40gmail.com&ctz=America%2FChicago)
+
+[2024 Safety Manual](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/team-resources/safety/ftc-frc-safety-manual.pdf)
+
+## Mentor-Specific
+
+[Liability Wavier - Mentors](assets/documents/First-Robotics-Liability-Waiver-Mentors.pdf)
+
+{% include youtube_embed.html embedLink="https://www.youtube.com/embed/3XNUWOozyOQ" %}
