@@ -2,10 +2,6 @@
 layout: home_style
 ---
 
-# Miss the Open House?
-
-We are still welcoming new students! Please come to our first meeting on Thursday, August 22nd. See the Calendar for more details.
-
 # 2024-2025 Season Resources
 
 [Warehouse Access Request](https://forms.office.com/r/hAq99pmT3R)
