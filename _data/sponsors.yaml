@@ -40,7 +40,6 @@
   logoHeight: 150px
   website: https://www.playingwithfusion.com
   yearsActive: 
-    - 2025
     - 2024
     - 2023
     - 2022
@@ -166,5 +165,12 @@
   website: https://avantispeoria.com/
   yearsActive: 
     - 2024
+
+  - name: Freddy's
+  logo: assets/img/sponsorLogos/freddys_logo.png
+  logoHeight: 150
+  website: https://www.freddys.com/
+  yearsActive: 
+    - 2025
 
     
