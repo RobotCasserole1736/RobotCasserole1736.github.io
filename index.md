@@ -14,6 +14,8 @@ layout: home_style
 
 [2024 Safety Manual](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/team-resources/safety/ftc-frc-safety-manual.pdf)
 
+[Application Form](https://docs.google.com/forms/d/e/1FAIpQLSd5owbAPPwU-3S4sU_P1092eN1BLaAM3Ls_mfGCes5I93c6bA/viewform?usp=sharing&ouid=112017503430340797463)
+
 ## Mentor-Specific
 
 [Liability Wavier - Mentors](assets/documents/First-Robotics-Liability-Waiver-Mentors.pdf)
