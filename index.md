@@ -2,7 +2,7 @@
 layout: home_style
 ---
 
-# 2024-2025 Season Resources
+# 2025-2026 Season Resources
 
 [Warehouse Access Request](https://forms.office.com/r/hAq99pmT3R)
 
@@ -12,7 +12,7 @@ layout: home_style
 
 [Team Google Calendar](https://calendar.google.com/calendar/embed?src=frc1736%40gmail.com&ctz=America%2FChicago)
 
-[2024 Safety Manual](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/team-resources/safety/ftc-frc-safety-manual.pdf)
+[2026 Safety Manual](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/team-resources/safety/ftc-frc-safety-manual.pdf)
 
 [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSd5owbAPPwU-3S4sU_P1092eN1BLaAM3Ls_mfGCes5I93c6bA/viewform?usp=sharing&ouid=112017503430340797463)
 
