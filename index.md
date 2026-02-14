@@ -6,7 +6,7 @@ layout: home_style
 
 [Warehouse Access Request](https://forms.office.com/r/hAq99pmT3R)
 
-[Team Handbook and Acknowledgement Form](assets/documents/RC_handbook_2024-2025_v1p1.pdf)
+[Team Handbook and Acknowledgement Form](assets/documents/RC_handbook_2025 2026_v1.pdf)
 
 [Liability Wavier - Students](assets/documents/First-Robotics-Liability-Waiver-Students.pdf)
 
