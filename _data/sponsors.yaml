@@ -156,7 +156,7 @@
 
 - name: Diamond Vogel Inc.
   logo: assets/img/sponsorLogos/diamondVogelLogo.png
-  logoHeight: 150
+  logoHeight: 125
   website: https://www.diamondvogel.com/peoria
   yearsActive:
     - 2026
