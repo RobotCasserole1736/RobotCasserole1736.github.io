@@ -176,3 +176,9 @@
   website: https://www.freddys.com/
   yearsActive:
     - 2025
+- name: State Farm
+logo: assets/img/sponsorLogos/state-farm-logo-4.svg
+logoheight: 175
+website: https://www.statefarm.com/
+yearsActive:
+   -2026
